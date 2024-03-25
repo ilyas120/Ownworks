@@ -24,3 +24,6 @@ git push origin master (Push all to git)
 
 git status (check all have been complited)
 
+
+pip freeze > requirements.txt
+
