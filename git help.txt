@@ -1,0 +1,26 @@
+git clone ###################
+
+
+vertual env
+python -m virtualenv userenv
+
+install django
+pip install django (inside vertual env)
+pip freeze (to check all install in VM)
+
+install project
+django-admin startproject XXXXX (create a project in Django)
+
+back to git
+git status (to check the status)
+
+git add . (add all changes in the project)
+
+git commit -m "the commit of changes"
+
+git pull origin master (checking all been pulled)
+
+git push origin master (Push all to git)
+
+git status (check all have been complited)
+
